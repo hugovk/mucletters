@@ -1,6 +1,6 @@
 # mucletters
 
-My NaNoGenMo entry is an epistolary novel of love letters (and the second entry inspired by [D004x](https://www.edx.org/course/electronic-literature-davidsonx-d004x
+My second [NaNoGenMo 2015 entry](https://github.com/dariusk/NaNoGenMo-2015) is an epistolary novel of love letters (and the second entry inspired by [D004x](https://www.edx.org/course/electronic-literature-davidsonx-d004x
 )).
 
  * [HTML](https://hugovk.github.io/mucletters/output/mucletters.html)
