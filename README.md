@@ -3,7 +3,9 @@
 My NaNoGenMo entry is an epistolary novel of love letters (and the second entry inspired by [D004x](https://www.edx.org/course/electronic-literature-davidsonx-d004x
 )).
 
- * [HTML](https://hugovk.github.io/mucletters/output/mucletters.html) [PDF](https://hugovk.github.io/mucletters/output/mucletters.pdf) [code](mucletters.py)
+ * [HTML](https://hugovk.github.io/mucletters/output/mucletters.html)
+ * [PDF](https://hugovk.github.io/mucletters/output/mucletters.pdf)
+ * [code](mucletters.py)
 
 Christopher Strachey has been named the first digital artist; the first to make literary or artistic use of a computer.
 
