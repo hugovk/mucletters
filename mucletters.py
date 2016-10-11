@@ -18,7 +18,7 @@ import argparse
 import random
 import re
 import sys
-import yaml  # pip install pyaml
+import yaml  # pip install pyyaml
 from wordnik import swagger, WordsApi  # pip install wordnik
 
 
